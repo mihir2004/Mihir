@@ -1,0 +1,164 @@
+  body{
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+h1
+{
+  margin:50px auto 0 auto;
+  font-family: Sacramento,cursive;
+  font-size: 5.625rem;/*100% = 16px = 1em*/
+  color: #66BFBF;
+
+}
+.des
+{
+  color: #40514E;
+}
+.black
+{
+  color: black;
+  font-weight: bold;
+  margin: 10px auto 100px auto;
+}
+hr
+{
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+}
+h2
+{
+  font-family: Montserrat,sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+h3
+{  font-family: Montserrat,sans-serif;
+  color: #11999E;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+a{
+  color: #11999E;
+}
+.Top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.circular
+{
+  border-radius: 1000px;
+  height: auto;
+  width: 25%;
+  margin-top: 10px;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row
+{
+  width: 50%;
+  margin : 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.computer
+{
+  border-radius: 1000px;
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+.chilli
+{
+  border-radius: 1000px;
+  width: 25%;
+  float: right;
+  margin: 0 0 0 30px;
+}
+.profile
+{
+  margin-bottom: 100px;
+}
+.skills
+{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.contact-me
+{
+  margin-top: 100px;
+}
+.profile
+{
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.bottom-container
+{
+  margin-top: 50px;
+  background-color: #66BFBF;
+  padding: 10px;
+}
+.btn{
+
+  background-color: #66BFBF;
+  color: white;
+  font-size: 20px;
+
+  padding: 14px 40px;
+
+  border-radius: 8px;
+  margin: 100px auto 100px auto;
+
+line-height: 2;
+text-decoration: none;
+
+
+
+}
+
+.btn:hover{
+
+  transition-duration: 0.4s;
+
+  background-color: #11999E;
+
+  color: #66BFBF;
+
+}
+.copy
+{
+  color: #EAF6F6;
+}
+.footer-link
+{
+   line-height: 2;
+   text-decoration: none;
+   padding: 20px;
+   font-size: 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
